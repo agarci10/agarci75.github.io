@@ -1,7 +1,7 @@
 <html><head>
 	<meta http-equiv="content-type" content="text/html;charset=UTF-8">
 
-	<title>Super Duper Paratroopers with Bob</title>
+	<title>Hi my name is Andrew Garcia-Rico and I got this working :)</title>
 	<link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
@@ -25,7 +25,7 @@
 <!-- dynamic content goes here -->
 
 
-<h1>Welcome to Super Duper Paratroopers</h1>
+<h1>Hi my name is Andrew Garcia-Rico and I got this working :)</h1>
 <p>
 	<img class="one" src="http://farm7.staticflickr.com/6104/6276705300_53b65c826b.jpg" alt="Picture of two parachutists">
 
